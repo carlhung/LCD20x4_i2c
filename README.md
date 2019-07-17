@@ -4,7 +4,7 @@ This is LCD20x4 driver written in swift 5.
 
 wiring:
 
-raspberry's pins <-> LCD's pins
+raspberry's pin <-> LCD's pin
 
 SDA <-> SDA
 
