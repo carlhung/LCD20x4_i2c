@@ -18,3 +18,5 @@ GND <-> GND
 I know raspberry pi's GPIO pins run on 3.3v
 
 But i2c's pins can run on different voltage.
+
+I haven't tested yet.
