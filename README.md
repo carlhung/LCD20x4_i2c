@@ -1,5 +1,13 @@
 # LCD20x4
 
+Add the line below into Package.swift:
+
+.package(url: "https://github.com/carlhung/LCD20x4_i2c.git", .branch("master"))
+
+and also add "LCD20x4" in dependencies.
+
+
+
 This is LCD20x4 driver written in swift 5.
 
 wiring:
